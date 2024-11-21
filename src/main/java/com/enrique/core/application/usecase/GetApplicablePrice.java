@@ -2,8 +2,6 @@ package com.enrique.core.application.usecase;
 
 import com.enrique.core.domain.entity.Price;
 import com.enrique.core.domain.repositories.PriceRepository;
-import com.enrique.core.domain.usecase.GetApplicablePriceUseCase;
-import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 

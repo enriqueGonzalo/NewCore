@@ -1,7 +1,5 @@
 package com.enrique.core.infrastructure.repository;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 import com.enrique.core.domain.entity.Price;
 import com.enrique.core.infrastructure.PriceJpaRepository;
 import org.junit.jupiter.api.BeforeEach;
